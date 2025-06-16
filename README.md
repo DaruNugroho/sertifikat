@@ -1,17 +1,17 @@
 # Sertifikat
 
-* IT Support Google [https://coursera.org/verify/professional-cert/4497PJU4HY3K](https://coursera.org/verify/professional-cert/4497PJU4HY3K)\
-* Belajar Fundamental Aplikasi Android [https://www.dicoding.com/certificates/07Z63YJEJZQR](https://www.dicoding.com/certificates/07Z63YJEJZQR)\
-* Belajar Membuat Aplikasi Android Untuk Pemula [https://www.dicoding.com/certificates/RVZK1775OPD5](https://www.dicoding.com/certificates/RVZK1775OPD5)\
-* Belajar Membuat Aplikasi Flutter Untuk Pemula [https://www.dicoding.com/certificates/KEXLGE3LYZG2](https://www.dicoding.com/certificates/KEXLGE3LYZG2)\
-* Belajar Membuat Aplikasi Back-End untuk Pemula dengan Javascript [https://www.dicoding.com/certificates/6RPN1022RX2M](https://www.dicoding.com/certificates/6RPN1022RX2M)\
-* Belajar Prinsip Pemrograman SOLID [https://www.dicoding.com/certificates/4EXGQ26EEZRL](https://www.dicoding.com/certificates/4EXGQ26EEZRL)\
-* Belajar Membuat Aplikasi Backend Untuk Pemula Dengan Google Cloud [https://www.dicoding.com/certificates/1OP865VLQXQK](https://www.dicoding.com/certificates/1OP865VLQXQK)\
-* Memulai Pemrograman Dengan Kotlin [https://www.dicoding.com/certificates/1RXYMJR79XVM](https://www.dicoding.com/certificates/1RXYMJR79XVM)\
-* Belajar Dasar Pemrograman Javascript [https://www.dicoding.com/certificates/N9ZO7W1V8ZG5](https://www.dicoding.com/certificates/N9ZO7W1V8ZG5)\
-* Belajar Dasar Visualisasi Data [https://www.dicoding.com/certificates/JMZVG6Y3NZN9](https://www.dicoding.com/certificates/JMZVG6Y3NZN9)\
-* Belajar Dasar Pemrograman Web [https://www.dicoding.com/certificates/RVZKK9V04ZD5](https://www.dicoding.com/certificates/RVZKK9V04ZD5)\
-* Memulai Pemrograman Dengan Python [https://www.dicoding.com/certificates/MEPJK5QEQX3V](https://www.dicoding.com/certificates/MEPJK5QEQX3V)\
-* Belajar Dasar DevOps [https://www.dicoding.com/certificates/MEPJKKOQ6X3V](https://www.dicoding.com/certificates/MEPJKKOQ6X3V)\
-* Memulai Pemrograman Dengan Java [https://www.dicoding.com/certificates/MEPJK23DJX3V](https://www.dicoding.com/certificates/MEPJK23DJX3V)\
-* Memulai Pemrograman Dengan C [https://www.dicoding.com/certificates/MRZMQKJLKPYQ](https://www.dicoding.com/certificates/MRZMQKJLKPYQ)\
+* IT Support Google [https://coursera.org/verify/professional-cert/4497PJU4HY3K](https://coursera.org/verify/professional-cert/4497PJU4HY3K)
+* Belajar Fundamental Aplikasi Android [https://www.dicoding.com/certificates/07Z63YJEJZQR](https://www.dicoding.com/certificates/07Z63YJEJZQR)
+* Belajar Membuat Aplikasi Android Untuk Pemula [https://www.dicoding.com/certificates/RVZK1775OPD5](https://www.dicoding.com/certificates/RVZK1775OPD5)
+* Belajar Membuat Aplikasi Flutter Untuk Pemula [https://www.dicoding.com/certificates/KEXLGE3LYZG2](https://www.dicoding.com/certificates/KEXLGE3LYZG2)
+* Belajar Membuat Aplikasi Back-End untuk Pemula dengan Javascript [https://www.dicoding.com/certificates/6RPN1022RX2M](https://www.dicoding.com/certificates/6RPN1022RX2M)
+* Belajar Prinsip Pemrograman SOLID [https://www.dicoding.com/certificates/4EXGQ26EEZRL](https://www.dicoding.com/certificates/4EXGQ26EEZRL)
+* Belajar Membuat Aplikasi Backend Untuk Pemula Dengan Google Cloud [https://www.dicoding.com/certificates/1OP865VLQXQK](https://www.dicoding.com/certificates/1OP865VLQXQK)
+* Memulai Pemrograman Dengan Kotlin [https://www.dicoding.com/certificates/1RXYMJR79XVM](https://www.dicoding.com/certificates/1RXYMJR79XVM)
+* Belajar Dasar Pemrograman Javascript [https://www.dicoding.com/certificates/N9ZO7W1V8ZG5](https://www.dicoding.com/certificates/N9ZO7W1V8ZG5)
+* Belajar Dasar Visualisasi Data [https://www.dicoding.com/certificates/JMZVG6Y3NZN9](https://www.dicoding.com/certificates/JMZVG6Y3NZN9)
+* Belajar Dasar Pemrograman Web [https://www.dicoding.com/certificates/RVZKK9V04ZD5](https://www.dicoding.com/certificates/RVZKK9V04ZD5)
+* Memulai Pemrograman Dengan Python [https://www.dicoding.com/certificates/MEPJK5QEQX3V](https://www.dicoding.com/certificates/MEPJK5QEQX3V)
+* Belajar Dasar DevOps [https://www.dicoding.com/certificates/MEPJKKOQ6X3V](https://www.dicoding.com/certificates/MEPJKKOQ6X3V)
+* Memulai Pemrograman Dengan Java [https://www.dicoding.com/certificates/MEPJK23DJX3V](https://www.dicoding.com/certificates/MEPJK23DJX3V)
+* Memulai Pemrograman Dengan C [https://www.dicoding.com/certificates/MRZMQKJLKPYQ](https://www.dicoding.com/certificates/MRZMQKJLKPYQ)
